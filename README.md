@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/woman_with_laptop.gif" width="100"/>
+</div>
+
 <!--
 **danamejia1810/danamejia1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
