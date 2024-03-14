@@ -1,11 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="1000" height="300"/>
+</div>
+
 <h1>
   Hey, I´m Dana :woman_technologist:
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/woman_with_laptop.gif" width="600" height="300"/>
-</div>
 
 
 <div id="badges">
