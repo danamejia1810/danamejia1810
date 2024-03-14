@@ -60,4 +60,4 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danamejia1810&theme=calm&show_icons=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danamejia1810&layout=compact&theme=calm&show_icons=true)
 
-![Snake animation](https://github.com/danamejia1810/danamejia1810/blob/output/github-contribution-grid-snake.svg)
+
