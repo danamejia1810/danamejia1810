@@ -52,7 +52,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensor" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visual" width="45" height="45"/>
-
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="powerbi" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/354427/tableau.svg" alt="tableau" width="45" height="45"/>  
 
 </p>
 
