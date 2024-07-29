@@ -5,7 +5,7 @@
 
 <h1>
   Hola!, I´m Dayana Mejía :woman_technologist:
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola!,+I´m+Dayana+Mejía+:woman_technologist:)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola!+I'm+Dayana+Mej%C3%ADa.+)](https://git.io/typing-svg)
 </h1>
 
 
