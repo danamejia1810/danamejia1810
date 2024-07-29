@@ -1,9 +1,10 @@
 <div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola!, I´m Dayana Mejía :woman_technologist:)](https://git.io/typing-svg)
   <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="1000" height="300"/>
 </div>
 
 <h1>
-  Hey, I´m Dana :woman_technologist:
+  Hola!, I´m Dayana Mejía :woman_technologist:
 </h1>
 
 
