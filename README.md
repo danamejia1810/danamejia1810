@@ -1,35 +1,18 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola!, I´m Dayana Mejía :woman_technologist:)](https://git.io/typing-svg)
-  <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="1000" height="300"/>
-</div>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&width=500&lines=Hola%F0%9F%91%8B%2C+I'm+Dayana+Mejía!" alt="Typing SVG" /></a></div>
 
-<h1>
-  Hola!, I´m Dayana Mejía :woman_technologist:
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola!+I'm+Dayana+Mej%C3%ADa.+)](https://git.io/typing-svg)
-</h1>
+## Data Scientist :woman_technologist: 
 
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am from Colombia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently living in Spain.
 
-- :telescope: I recently finished my Data Science master degree at Universitat Oberta de Catalunya. I’m currently working on my portfolio to develop my skills.
+- :telescope: I recently finished my Data Science master degree at Universitat Oberta de Catalunya. 
 
-- :seedling: I’m currently learning Azure and AWS cloud. 
+- :seedling: I’m learning Azure and AWS cloud. 
 
-- :zap: In my free time, I read and paint.
+- :zap: In my free time, I read and paint. Also there is a high probability that you will catch me at a book fair.
 
 - :mailbox:How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/dayanakmejiaquintero)
 
